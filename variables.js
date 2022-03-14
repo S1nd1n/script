@@ -4,3 +4,5 @@ let name;
 name = "Джон";
 admin = name;
 
+let Earth;
+let visitor;
